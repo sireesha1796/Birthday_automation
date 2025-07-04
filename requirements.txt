@@ -1,0 +1,5 @@
+pillow==10.2.0
+pandas==2.2.1
+pywhatkit==5.4
+pyinstaller==6.4.0
+tkcalendar==1.6.1 
